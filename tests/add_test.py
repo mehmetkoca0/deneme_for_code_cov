@@ -1,4 +1,4 @@
-from src.deneme.add import add
+from add import add
 import pytest
 
 def new_test(x,y):
