@@ -1,4 +1,4 @@
-from add import add
+from deneme.add import add
 import pytest
 
 def new_test(x,y):
